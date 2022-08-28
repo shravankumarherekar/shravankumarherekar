@@ -3,7 +3,7 @@
   
   ## About Me 👩‍💼
   
-- 👀 I am Shravan, working as an Program Analyst trainee at Cognizant
+- 👀 I am Shravan, working as an Program Analyst Trainee At Cognizant
 - 💻 I’m a full stack MEAN developer  
 - 🎓 I graduated in 2021 from VJIT,Hyderabad (B.Tech, ECE) with a CGPA of 8.2
 - 🌱 I’m currently learning Nodejs , React
