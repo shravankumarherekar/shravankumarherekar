@@ -1,7 +1,7 @@
   ## Hello there 👋
   
   
-  ## About Me 👩‍💼
+  ## About Me 👦
   
 - 👀 I am Shravan, working as an Program Analyst Trainee At Cognizant
 - 💻 I’m a full stack MEAN developer  
